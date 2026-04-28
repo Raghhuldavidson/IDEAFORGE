@@ -89,13 +89,4 @@ streamlit run idea_forge.py
 - Multi-language support
 - Investor/funding recommendation module
 
-## Screenshots
-(Add screenshots or demo GIFs here)
 
-## Author
-Your Name  
-LinkedIn: (Add your LinkedIn)  
-GitHub: https://github.com/your-username
-
-## License
-This project is licensed under the MIT License.
